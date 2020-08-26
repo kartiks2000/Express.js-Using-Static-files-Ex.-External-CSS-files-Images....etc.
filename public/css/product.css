@@ -1,0 +1,9 @@
+.nav-item{
+    color:purple;
+    size: 1.6rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav-item:hover{
+    color: orangered;
+}
